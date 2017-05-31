@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 
-namespace netcore_middleware
+namespace app
 {
     public class Startup
     {
@@ -22,12 +22,12 @@ namespace netcore_middleware
         public void Configure(IApplicationBuilder app, IHostingEnvironment env, ILoggerFactory loggerFactory)
         {
             loggerFactory.AddConsole();
-            app.UseRequestIP();
+
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
             }
-            app.UseVisitLogger();
+
             app.Run(async (context) =>
             {
                 await context.Response.WriteAsync("Hello World!");

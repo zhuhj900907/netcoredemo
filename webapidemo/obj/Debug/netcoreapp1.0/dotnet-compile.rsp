@@ -1,5 +1,5 @@
---temp-output:f:\baseframe\netcore\webapidemo\obj\Debug\netcoreapp1.0\
---out:f:\baseframe\netcore\webapidemo\bin\Debug\netcoreapp1.0\webapidemo.dll
+--temp-output:F:\baseframe\netcore\webapidemo\obj\Debug\netcoreapp1.0\
+--out:F:\baseframe\netcore\webapidemo\bin\Debug\netcoreapp1.0\webapidemo.dll
 --define:DEBUG
 --define:TRACE
 --define:NETCOREAPP1_0
@@ -70,6 +70,9 @@
 --reference:C:\Users\Administrator\.nuget\packages\Microsoft.Extensions.Localization.Abstractions\1.0.0\lib\netstandard1.0\Microsoft.Extensions.Localization.Abstractions.dll
 --reference:C:\Users\Administrator\.nuget\packages\Microsoft.Extensions.Logging\1.0.0\lib\netstandard1.1\Microsoft.Extensions.Logging.dll
 --reference:C:\Users\Administrator\.nuget\packages\Microsoft.Extensions.Logging.Abstractions\1.0.0\lib\netstandard1.1\Microsoft.Extensions.Logging.Abstractions.dll
+--reference:C:\Users\Administrator\.nuget\packages\Microsoft.Extensions.Logging.Console\1.0.0\lib\netstandard1.3\Microsoft.Extensions.Logging.Console.dll
+--reference:C:\Users\Administrator\.nuget\packages\Microsoft.Extensions.Logging.Debug\1.0.0\lib\netstandard1.3\Microsoft.Extensions.Logging.Debug.dll
+--reference:C:\Users\Administrator\.nuget\packages\Microsoft.Extensions.Logging.Filter\1.0.0\lib\netstandard1.1\Microsoft.Extensions.Logging.Filter.dll
 --reference:C:\Users\Administrator\.nuget\packages\Microsoft.Extensions.ObjectPool\1.0.0\lib\netstandard1.3\Microsoft.Extensions.ObjectPool.dll
 --reference:C:\Users\Administrator\.nuget\packages\Microsoft.Extensions.Options\1.0.0\lib\netstandard1.0\Microsoft.Extensions.Options.dll
 --reference:C:\Users\Administrator\.nuget\packages\Microsoft.Extensions.PlatformAbstractions\1.0.0\lib\netstandard1.3\Microsoft.Extensions.PlatformAbstractions.dll
@@ -161,7 +164,7 @@
 --reference:C:\Users\Administrator\.nuget\packages\System.Threading.Timer\4.0.1\ref\netstandard1.2\System.Threading.Timer.dll
 --reference:C:\Users\Administrator\.nuget\packages\System.Xml.ReaderWriter\4.0.11\ref\netstandard1.3\System.Xml.ReaderWriter.dll
 --reference:C:\Users\Administrator\.nuget\packages\System.Xml.XDocument\4.0.11\ref\netstandard1.3\System.Xml.XDocument.dll
-f:\baseframe\netcore\webapidemo\Program.cs
-f:\baseframe\netcore\webapidemo\Startup.cs
-f:\baseframe\netcore\webapidemo\Controllers\UserInfoController.cs
-f:\baseframe\netcore\webapidemo\Models\User.cs
+F:\baseframe\netcore\webapidemo\Program.cs
+F:\baseframe\netcore\webapidemo\Startup.cs
+F:\baseframe\netcore\webapidemo\Controllers\UserInfoController.cs
+F:\baseframe\netcore\webapidemo\Models\User.cs

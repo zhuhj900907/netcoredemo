@@ -127,3 +127,5 @@ F:\baseframe\netcore\netcore_middleware\src\netcore_middleware\Program.cs
 F:\baseframe\netcore\netcore_middleware\src\netcore_middleware\RequestIPExtensions.cs
 F:\baseframe\netcore\netcore_middleware\src\netcore_middleware\RequestIPMiddleware.cs
 F:\baseframe\netcore\netcore_middleware\src\netcore_middleware\Startup.cs
+F:\baseframe\netcore\netcore_middleware\src\netcore_middleware\VisitLogMiddleware.cs
+F:\baseframe\netcore\netcore_middleware\src\netcore_middleware\Models\VisitLog.cs
